@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "137450961167",
+    "project_id": "myfire-collect",
+    "storage_bucket": "myfire-collect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137450961167:android:529ed2be0c7b3aeb13267a",
+        "android_client_info": {
+          "package_name": "com.example.cloud_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137450961167-jg54hadr5f89m2f2reltdiaboudpkm08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPV671PoGM_1Iqtzlljbcj8rL-AvFO4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137450961167-jg54hadr5f89m2f2reltdiaboudpkm08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137450961167-shcr9adee8c00h1d7p8u57rffdb0rhq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloudFirestore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137450961167:android:775a761e8ce2dc2f13267a",
+        "android_client_info": {
+          "package_name": "com.example.mydata_exp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137450961167-jg54hadr5f89m2f2reltdiaboudpkm08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPV671PoGM_1Iqtzlljbcj8rL-AvFO4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137450961167-jg54hadr5f89m2f2reltdiaboudpkm08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137450961167-shcr9adee8c00h1d7p8u57rffdb0rhq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloudFirestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
